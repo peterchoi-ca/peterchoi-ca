@@ -13,14 +13,14 @@ Peter, a Toronto-based IT professional with 15 years of experience, excels in Li
 <a href="https://www.credly.com/badges/40524069-aca0-4cb9-afb7-084a7817ce24/public_url">
 <img class="icon-image" height="100" src="https://github.com/peterchoi-ca/peterchoi-ca/blob/main/img/az/azure-developer-associate.png" alt="Microsoft Certified Developer Associate" />    
 </a>
-<a href="https://www.credly.com/badges/9330a5da-219b-4254-a759-23477b9777df/public_url">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/PeterChoi-6716/134459E0F7E415DE?sharingId=D29854EDD2658942">
 <img class="icon-image" height="100" src="https://github.com/peterchoi-ca/peterchoi-ca/blob/main/img/az/azure-security-engineer-associate.png" alt="Microsoft Certified Security Engineer Associate" />    
 </a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/PeterChoi-6716/2547831D400DED8B?sharingId=D29854EDD2658942">
 <img class="icon-image" height="100" src="https://github.com/peterchoi-ca/peterchoi-ca/blob/main/img/az/azure-administrator-associate.png" alt="Microsoft Certified Administrator Associate" />    
 </a>
 
-> Note: Microsoft [sunset](https://support.credly.com/hc/en-us/articles/360029780152-Microsoft) Credly badges as of June 30, 2023. Therefore, certification renewals after this date are linked to my MS Learn profile for verification.
+> Note: Microsoft [sunset](https://support.credly.com/hc/en-us/articles/360029780152-Microsoft) Credly badges as of June 30, 2023. Therefore, certification renewals after this date are linked to my [MS Learn profile](https://learn.microsoft.com/en-us/users/peterchoi-6716/transcript/deq8yammz9ye129) for verification.
 
 ### I'm starting to work more with GCP
 <a href="https://google.accredible.com/02fead75-4fc2-4094-9407-826321a219a8">
