@@ -1,7 +1,9 @@
 # About
 Peter, a Toronto-based professional with 15 years of IT experience, excels in Linux, virtualization, cloud computing, and CI/CD pipeline automation. He thrives on continually learning and mastering new technologies.
 
-✉️ contact [at] peterchoi [dot] ca
+✉️ shpeterchoi [at] outlook [dot] com
+
+📄 https://peterchoi.ca/resume.pdf
 
 ### Azure Certifications
 <a href="https://www.credly.com/badges/deb44d96-82a9-460f-9c92-a647aa3940a2/public_url">
