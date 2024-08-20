@@ -6,10 +6,10 @@ Peter, a Toronto-based professional with 15 years of IT experience, excels in Li
 📄 https://peterchoi.ca/resume.pdf
 
 ### Azure Certifications
-<a href="https://www.credly.com/badges/deb44d96-82a9-460f-9c92-a647aa3940a2/public_url">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/PeterChoi-6716/F4B5B7CFB59C89D0?sharingId=D29854EDD2658942">
 <img class="icon-image" height="100" src="https://github.com/peterchoi-ca/peterchoi-ca/blob/main/img/az/azure-devops-engineer-expert.png" alt="Microsoft Certified DevOps Engineer Expert" />    
 </a>
-<a href="https://www.credly.com/badges/e8169cff-0d52-4d79-a14f-30eef8017d10/public_url">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/PeterChoi-6716/D57A63055E250101?sharingId=D29854EDD2658942">
 <img class="icon-image" height="100" src="https://github.com/peterchoi-ca/peterchoi-ca/blob/main/img/az/azure-solutions-architect-expert.png" alt="Microsoft Certified Solutions Architect Expert" />    
 </a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/PeterChoi-6716/8A582D4C137BD868?sharingId=D29854EDD2658942">
